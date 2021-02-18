@@ -12,6 +12,7 @@ namespace GenericsIntro
             Console.WriteLine(myDictionary.Length());
             myDictionary.Add(3, "Ceren");
             Console.WriteLine(myDictionary.Length());
+          
         }
     }
 }
